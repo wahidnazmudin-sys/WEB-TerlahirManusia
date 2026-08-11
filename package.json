@@ -13,6 +13,7 @@
     "firebase": "^10.12.0",
     "framer-motion": "^11.2.10",
     "lucide-react": "^0.475.0",
+    "react-hook-form": "^7.54.0",
     "next": "^15.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
